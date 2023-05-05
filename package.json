@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "ShareSpace provide a new Generation of Features and share. feel free around the Internet and grow.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David.Didenko",
+  "license": "ISC"
+}
