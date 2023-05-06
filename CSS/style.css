@@ -1,18 +1,27 @@
 
-/* main container */
-.mainContainer{
-    margin-top: 12%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+.row{
+  background-color: aqua;
 
 }
 
-.first{
-    background-color: rgb(47, 128, 101);
+.cotainer-fluid{
+  padding: 6% 15% 7%;
 }
 
-.second{
-    background-color: rgb(176, 126, 64);
+.wellcome{
+  background-color: blue;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+
+
+  
 }
 
-/* ***************** */
+.login{
+  background-color: bisque;
+}
+
+.myCarousel{
+  padding-bottom: 50px;
+}
