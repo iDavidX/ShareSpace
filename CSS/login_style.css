@@ -103,6 +103,14 @@ html,body{
   }
 }
 
+@media  (min-width: 1900px) {
+  .wrapper{
+    margin-top: 22%;
+  }
+
+}
+
+
 
 
 @media (min-width: 992px)

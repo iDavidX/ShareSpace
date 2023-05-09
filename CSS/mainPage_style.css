@@ -1,0 +1,39 @@
+.html,body{
+    background-image: linear-gradient(90deg, #8EC5FC 20%, #E0C3FC 100%);
+}
+
+.form-control-dark {
+    border-color: var(--bs-gray);
+  }
+  .form-control-dark:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+  }
+  
+  .text-small {
+    font-size: 85%;
+  }
+  
+  .dropdown-toggle:not(:focus) {
+    outline: 0;
+  }
+
+.row{
+    padding: 3% 2% 15%;
+} 
+.left-container{
+    background-color: aqua;
+    padding-bottom: 20%;
+}
+
+.middle-container{
+    background-color: azure;
+}
+
+.right-container{
+    background-color: coral;
+}
+
+.stock{
+    padding-bottom: 90%;
+}
